@@ -27,7 +27,6 @@ An eCommerce website built with PHP, MySQL, and Bootstrap. This platform allows 
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
 - **Libraries:** jQuery
 - **Authentication:** PHP sessions
-- **Deployment:** Apache Server
 
 ## Installation
 
@@ -35,7 +34,6 @@ An eCommerce website built with PHP, MySQL, and Bootstrap. This platform allows 
 
 - PHP >= 7.4
 - MySQL
-- Apache Server
 - Composer
 
 ### Steps
