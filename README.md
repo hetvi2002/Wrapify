@@ -42,8 +42,8 @@ An eCommerce website built with PHP, MySQL, and Bootstrap. This platform allows 
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/ecommerce-website.git
-    cd ecommerce-website
+    git clone https://github.com/hetvi2002/Wrapify.git
+    cd Wrapify
     ```
 
 2. **Install dependencies:**
@@ -69,5 +69,5 @@ An eCommerce website built with PHP, MySQL, and Bootstrap. This platform allows 
 7. **Access the website:**
     Open your browser and go to `http://localhost:8000`
 
-## Project Structure
+
 
