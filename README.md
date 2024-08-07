@@ -1,4 +1,4 @@
-# eCommerce Website
+# Wrapify
 
 An eCommerce website built with PHP, MySQL, and Bootstrap. This platform allows users to browse products, add them to the cart, and proceed to checkout. Admins can manage products, categories, and orders.
 
